@@ -9,7 +9,7 @@ class Maruti implements DemoCar
 {
 	public void specs() 
 	{
-		System.out.println("Maruti : Fuel Tank Capacity: 28.0");
+		System.out.println("Maruti : Fuel Tank Capacity: 28.0.....");
 	}
 }
 
@@ -18,7 +18,7 @@ class I20 implements DemoCar
 {
 	public void specs() 
 	{
-		System.out.println("i20 : Fuel Tank Capacity: 37.0");
+		System.out.println("i20 : Fuel Tank Capacity: 37.0.....");
 	}
 }
 
