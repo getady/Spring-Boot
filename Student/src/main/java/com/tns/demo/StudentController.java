@@ -1,4 +1,4 @@
-package com.ady.demo;
+package com.tns.demo;
 
 import java.util.List;
 import java.util.NoSuchElementException;

@@ -1,4 +1,4 @@
-package com.ady.demo;
+package com.tns.demo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
